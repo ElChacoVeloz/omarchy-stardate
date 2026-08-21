@@ -18,26 +18,7 @@ Stardate = (Year - 2323) × 1000 + (DayOfYear / DaysInYear) × 1000
 
 ## Installation
 
-Clone the repository into your Omarchy plugins directory:
-
-```bash
-git clone https://github.com/ElChacoVeloz/omarchy-stardate.git \
-  ~/.config/omarchy/plugins/iserrano.stardate
-```
-
-Add the widget to `~/.config/omarchy/shell.json`:
-
-```json
-{
-  "id": "iserrano.stardate"
-}
-```
-
-Restart Omarchy Shell:
-
-```bash
-omarchy restart shell
-```
+omarchy plugin add https://github.com/ElChacoVeloz/omarchy-stardate.git --enable
 
 ## Remove
 
