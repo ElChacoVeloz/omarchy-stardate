@@ -35,3 +35,7 @@ Restart Omarchy Shell:
 ```bash
 omarchy restart shell
 ```
+
+## Remove
+
+omarchy plugin remove iserrano.stardate --yes
