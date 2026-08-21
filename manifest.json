@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "iserrano.stardate",
+  "name": "Stardate",
+  "version": "1.0.0",
+  "author": "iserrano",
+  "description": "Stardate clock, refreshed every hour",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Stardate",
+    "description": "Stardate clock, refreshed every hour",
+    "category": "Time",
+    "allowMultiple": false
+  }
+}
