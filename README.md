@@ -2,6 +2,9 @@
 
 A Stardate bar widget for Omarchy Shell.
 
+<img width="347" height="55" alt="screenshot-2026-08-20_18-38-09" src="https://github.com/user-attachments/assets/af795735-7310-4a04-b4a4-cee558ac3610" />
+
+
 ## Formula
 
 Stardate = (Year - 2323) × 1000 + (DayOfYear / DaysInYear) × 1000
